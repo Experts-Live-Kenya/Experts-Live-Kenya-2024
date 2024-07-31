@@ -37,7 +37,7 @@
 ## App Development & Soft Skills
 | Speaker | Title | Link |
 |---------|-------|------|
-| Julia Muiruri | GitHub Copilot Unleashed: A Journey into AI-Assisted Development | [https://github.com/janssen-io/presentations/tree/main/azure-on-a-budget](https://aka.ms/Journey-into-AI-Assisted-Coding) |
+| Julia Muiruri | GitHub Copilot Unleashed: A Journey into AI-Assisted Development | https://aka.ms/Journey-into-AI-Assisted-Coding |
 | Brenda Chiteri | Building Intelligent Apps on Azure Kubernetes Service | https://github.com/janssen-io/presentations/tree/main/azure-on-a-budget |
 | Saurabh Mhaisekar | Crafting AI-Driven Applications with .NET: A Journey with C# and Azure AI | https://github.com/janssen-io/presentations/tree/main/azure-on-a-budget |
 | Sameer Mhaisekar | Unpacking Azure Certifications: Your ultime preparation guide | https://github.com/janssen-io/presentations/tree/main/azure-on-a-budget |
