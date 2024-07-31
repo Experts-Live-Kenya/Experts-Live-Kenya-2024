@@ -29,7 +29,7 @@
 | Speaker | Title | Link |
 |---------|-------|------|
 | Vignesh Ganesan | Privacy, Security and Compliance in Copilot for Microsoft 365 | https://github.com/janssen-io/presentations/tree/main/azure-on-a-budget |
-| Shadrack Kiprotich | Enhance copilot development with Microsoft Copilot Studio | https://github.com/janssen-io/presentations/tree/main/azure-on-a-budget |
+| Shadrack Kiprotich | Enhance copilot development with Microsoft Copilot Studio | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/main/M365/Enhancecopilotdevelopment_MicrosoftCopilotStudio.pdf |
 | Consolata Gicheru | Power Platform for the Code-first Developer | https://github.com/janssen-io/presentations/tree/main/azure-on-a-budget |
 | Emmanuel Atemba | Responsive & Beautiful Power Apps with Material Design | https://github.com/janssen-io/presentations/tree/main/azure-on-a-budget |
 | Francis Msangi Masera | Developing a customized solution for Dynamics 365 Business Central  | https://github.com/janssen-io/presentations/tree/main/azure-on-a-budget |
