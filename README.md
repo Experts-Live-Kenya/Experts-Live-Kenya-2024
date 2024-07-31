@@ -13,7 +13,7 @@
 | Farah Abdirahman | Build RAG Chat App using Azure Cosmos DB and Azure OpenAI | - |
 | Sameer Mhaisekar | Implementing Observability with Azure | - |
 | Bob C. Kimani, Lydia Njaaga (CRA Group) | VMWare on Azure | - |
-| Stan Ionitoiu-Janssen | Azure on a Budget | https://github.com/janssen-io/presentations/tree/main/azure-on-a-budget |
+| Stan Ionitoiu-Janssen | Azure on a Budget | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/da68517fefc7ab1978e277ba029d1fc18d3dcc97/Azure/AzureOnABudget.pptx |
 | Margaret Kamau | Cloud-native on Azure with a sprinkle of AI | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/402a63582c2ba13a025fa626d3a644f4d58562f9/Azure/Cloud%20Native%20with%20AI%20EXPERTSLIVE_MARGARETKAMAU.pdf |
 
 ## Security
