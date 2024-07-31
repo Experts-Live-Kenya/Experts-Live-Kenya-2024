@@ -14,7 +14,7 @@
 | Sameer Mhaisekar | Implementing Observability with Azure | https://github.com/janssen-io/presentations/tree/main/azure-on-a-budget |
 | Bob C. Kimani, Lydia Njaaga (CRA Group) | VMWare on Azure | https://github.com/janssen-io/presentations/tree/main/azure-on-a-budget |
 | Stan Ionitoiu-Janssen | Azure on a Budget | https://github.com/janssen-io/presentations/tree/main/azure-on-a-budget |
-| Margaret Kamau | Cloud-native on Azure with a sprinkle of AI | https://github.com/janssen-io/presentations/tree/main/azure-on-a-budget |
+| Margaret Kamau | Cloud-native on Azure with a sprinkle of AI | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/main/Azure/Cloud Native with AI EXPERTSLIVE_MARGARETKAMAU.pdf |
 
 ## Security
 | Speaker | Title | Link |
