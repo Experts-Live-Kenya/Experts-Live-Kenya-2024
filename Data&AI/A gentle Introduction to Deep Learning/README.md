@@ -11,4 +11,4 @@ You can watch the original talk by [Laurent Bugnion on YouTube](https://www.yout
 
 ## Session Feedback
 
-You can share yiur feedback based on the session [here](https://aka.ms/ExpertsLiveKE/speaker-feedback)
+You can share your feedback based on the session [here](https://aka.ms/ExpertsLiveKE/speaker-feedback)
