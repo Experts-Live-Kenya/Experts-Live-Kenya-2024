@@ -3,7 +3,7 @@
 ## Data & AI
 | Speaker | Title | Link |
 |---------|-------|------|
-| Sammy Deprez | Guardians of the Promptiverse: Ensuring LLM Safety and Security | - |
+| Sammy Deprez | Guardians of the Promptiverse: Ensuring LLM Safety and Security | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/74dd14bc4b5adb07f02f16bdd3893e608dd92c48/Data%26AI/GuardiansofthePromptiverseEnsuringLLMSafetyandSecurity.pdf |
 | Josh Ndemenge | Microsoft Fabric: What is and what's next | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/b341a97e093c36458a08f758fa0ac112f265de7c/Data%26AI/Experts%20Live%20-%20Microsoft%20Fabric%20What%20is%20and%20What%20next.pdf |
 | Bethany Jepchumba | A gentle introduction to Deep Learning | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/tree/b5e878df6d2a91896c752a86f5d9d4bb65fb5b7c/Data%26AI/A%20gentle%20Introduction%20to%20Deep%20Learning |
 | Brackly Murunga | Privacy-Preserving Framework for collaborative machine learning on sensitive data. | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/5ff39e132d637c9d207d5c54a18e349450ae0dca/Data%26AI/Privacy%20Preserving%20Framework%20For%20machine%20learning%20On%20Sensitive%20data.pdf |
