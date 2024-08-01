@@ -20,7 +20,7 @@
 | Speaker | Title | Link |
 |---------|-------|------|
 | Sean Wesonga | Generative AI in cybersecurity: introducing Copilot for security | - |
-| Jacklyne Mbuthia | Breaking Security Silos Across Your Multi- Cloud Landscape with Microsoft Defender & Microsoft Sentinel | - |
+| Jacklyne Mbuthia | Breaking Security Silos Across Your Multi- Cloud Landscape with Microsoft Defender & Microsoft Sentinel | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/548096dc4615854984766426c17743bca250e9ce/Security/Breaking%20Security%20Silos%20In%20Multi-Cloud%20Environments%20using%20Microsoft%20Defender%20%26%20Sentinel.pdf |
 | Vignesh Ganesan | Microsoft Defender XDR– The Ultimate Swiss Army Knife | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/a8eae5aa185a6c6eb720586863bc3781b5c75177/Security/Microsoft%20Defender%20XDR%E2%80%93%20The%20Ultimate%20Swiss%20Army%20Knife.pdf |
 | Per-Torben Sørensen | No more identity theft! Harden your identity security today | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/e9f1e16896f5a574bd19cc5fb7aae949e631342f/Security/No%20more%20identity%20theft%20Light%20Mode.pdf |
 | Kelvin Ngware | Unveiling the Power of Microsoft Purview for Data Security | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/e23d87408ec9aa01b3670caea8f9fa770af2e21d/Security/Unveiling%20the%20Power%20of%20Microsoft%20Purview%20for%20Data%20Security.pdf |
