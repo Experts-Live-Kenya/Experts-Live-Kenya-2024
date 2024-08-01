@@ -40,4 +40,4 @@
 | Julia Muiruri | GitHub Copilot Unleashed: A Journey into AI-Assisted Development | https://aka.ms/Journey-into-AI-Assisted-Coding |
 | Brenda Chiteri | Building Intelligent Apps on Azure Kubernetes Service | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/68e0f8ee0bc5f44d08c88e65389a1768f887e5d4/App%26Innovation/Building%20Intelligent%20Apps%20on%20AKS.pdf |
 | Saurabh Mhaisekar | Crafting AI-Driven Applications with .NET: A Journey with C# and Azure AI | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/b2580502b4b400e05855d1526df0349b37fb1382/App%26Innovation/Crafting%20AI%20Driven%20Application%20with%20C%23%20and%20Azure%20AI.pdf |
-| Sameer Mhaisekar | Unpacking Azure Certifications: Your ultime preparation guide | - |
+| Sameer Mhaisekar | Unpacking Azure Certifications: Your ultime preparation guide | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/050fd8d9c6cff519f8252036e6f138d0d267ee4a/App%26Innovation/ELK2024%20-%20Azure%20Certifications.pdf |
