@@ -10,7 +10,7 @@
 ## Azure
 | Speaker | Title | Link |
 |---------|-------|------|
-| Farah Abdirahman | Build RAG Chat App using Azure Cosmos DB and Azure OpenAI | - |
+| Farah Abdirahman | Build RAG Chat App using Azure Cosmos DB and Azure OpenAI | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/45409a45f76643c836b94b60236ef73271457c49/Azure/Building%20RAG%20Applications%20With%20Azure%20Cosmos%20DB.pdf |
 | Sameer Mhaisekar | Implementing Observability with Azure | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/57c546aab82a3946ea215b58e917cd956be5513f/Azure/Observability%20in%20Azure.pdf |
 | Bob C. Kimani, Lydia Njaaga (CRA Group) | VMWare on Azure | - |
 | Stan Ionitoiu-Janssen | Azure on a Budget | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/da68517fefc7ab1978e277ba029d1fc18d3dcc97/Azure/AzureOnABudget.pptx |
