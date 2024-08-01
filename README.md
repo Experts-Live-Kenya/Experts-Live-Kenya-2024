@@ -31,7 +31,7 @@
 | Vignesh Ganesan | Privacy, Security and Compliance in Copilot for Microsoft 365 | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/22d9d3adcbcd1b6ac945fe7cd1e425ee31c0b0ee/M365/Privacy%2C%20Security%20and%20Compliance%20in%20Copilot%20for%20Microsoft%20365.pdf |
 | Shadrack Kiprotich | Enhance copilot development with Microsoft Copilot Studio | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/main/M365/Enhancecopilotdevelopment_MicrosoftCopilotStudio.pdf |
 | Consolata Gicheru | Power Platform for the Code-first Developer | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/8ac850be62ebec801f236df1baa7e78a2ab9059c/M365/Power%20platform%20for%20the%20code%20first%20developer.pdf |
-| Emmanuel Atemba | Responsive & Beautiful Power Apps with Material Design | - |
+| Emmanuel Atemba | Responsive & Beautiful Power Apps with Material Design | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/6f652efb339140e0bc2eb2019e663552a5d88870/M365/Responsive%20and%20Beautiful%20PowerApps%20with%20Material%20Design.pdf |
 | Francis Msangi Masera | Developing a customized solution for Dynamics 365 Business Central  | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/5e5dd08a67b2bb1c09aa64afe4381f88f45892c7/M365/Developing%20a%20Customized%20Solution%20for%20Dynamics%20365%20Business%20Central.pdf |
 
 ## App Development & Soft Skills
