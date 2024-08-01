@@ -21,7 +21,7 @@
 |---------|-------|------|
 | Sean Wesonga | Generative AI in cybersecurity: introducing Copilot for security | - |
 | Jacklyne Mbuthia | Breaking Security Silos Across Your Multi- Cloud Landscape with Microsoft Defender & Microsoft Sentinel | - |
-| Vignesh Ganesan | Microsoft Defender XDR– The Ultimate Swiss Army Knife | - |
+| Vignesh Ganesan | Microsoft Defender XDR– The Ultimate Swiss Army Knife | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/a8eae5aa185a6c6eb720586863bc3781b5c75177/Security/Microsoft%20Defender%20XDR%E2%80%93%20The%20Ultimate%20Swiss%20Army%20Knife.pdf |
 | Per-Torben Sørensen | No more identity theft! Harden your identity security today | - |
 | Kelvin Ngware | Unveiling the Power of Microsoft Purview for Data Security | - |
 
