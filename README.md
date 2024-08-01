@@ -28,7 +28,7 @@
 ## Microsoft 365 & Power Platform
 | Speaker | Title | Link |
 |---------|-------|------|
-| Vignesh Ganesan | Privacy, Security and Compliance in Copilot for Microsoft 365 | - |
+| Vignesh Ganesan | Privacy, Security and Compliance in Copilot for Microsoft 365 | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/22d9d3adcbcd1b6ac945fe7cd1e425ee31c0b0ee/M365/Privacy%2C%20Security%20and%20Compliance%20in%20Copilot%20for%20Microsoft%20365.pdf |
 | Shadrack Kiprotich | Enhance copilot development with Microsoft Copilot Studio | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/main/M365/Enhancecopilotdevelopment_MicrosoftCopilotStudio.pdf |
 | Consolata Gicheru | Power Platform for the Code-first Developer | - |
 | Emmanuel Atemba | Responsive & Beautiful Power Apps with Material Design | - |
