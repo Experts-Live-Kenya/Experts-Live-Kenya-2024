@@ -32,7 +32,7 @@
 | Shadrack Kiprotich | Enhance copilot development with Microsoft Copilot Studio | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/main/M365/Enhancecopilotdevelopment_MicrosoftCopilotStudio.pdf |
 | Consolata Gicheru | Power Platform for the Code-first Developer | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/8ac850be62ebec801f236df1baa7e78a2ab9059c/M365/Power%20platform%20for%20the%20code%20first%20developer.pdf |
 | Emmanuel Atemba | Responsive & Beautiful Power Apps with Material Design | - |
-| Francis Msangi Masera | Developing a customized solution for Dynamics 365 Business Central  | - |
+| Francis Msangi Masera | Developing a customized solution for Dynamics 365 Business Central  | https://github.com/Experts-Live-Kenya/Experts-Live-Kenya-2024/blob/5e5dd08a67b2bb1c09aa64afe4381f88f45892c7/M365/Developing%20a%20Customized%20Solution%20for%20Dynamics%20365%20Business%20Central.pdf |
 
 ## App Development & Soft Skills
 | Speaker | Title | Link |
